@@ -128,8 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="seminar01.c" />
-    <ClCompile Include="seminar1.c" />
     <ClCompile Include="seminar2.c" />
+    <ClCompile Include="seminar3.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />

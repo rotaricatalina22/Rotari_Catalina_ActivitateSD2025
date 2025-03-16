@@ -24,6 +24,12 @@
     <ClCompile Include="seminar3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sablon01.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Laborator01_suplimentar.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">

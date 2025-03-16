@@ -127,6 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Laborator01_suplimentar.c" />
+    <ClCompile Include="Sablon01.c" />
     <ClCompile Include="seminar01.c" />
     <ClCompile Include="seminar2.c" />
     <ClCompile Include="seminar3.c" />

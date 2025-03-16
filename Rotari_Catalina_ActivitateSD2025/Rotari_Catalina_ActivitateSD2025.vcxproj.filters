@@ -30,6 +30,12 @@
     <ClCompile Include="Laborator01_suplimentar.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="laborator02_VectorDeElemente.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="sablon02_vectorDeElemente.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">

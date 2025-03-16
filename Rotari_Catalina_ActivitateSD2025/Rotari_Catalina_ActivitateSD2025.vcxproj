@@ -134,9 +134,11 @@
     <ClCompile Include="seminar01.c" />
     <ClCompile Include="seminar2.c" />
     <ClCompile Include="seminar3.c" />
+    <ClCompile Include="TaskSuplimentar3Fisiere.c" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt" />
+    <Text Include="masiniTask.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

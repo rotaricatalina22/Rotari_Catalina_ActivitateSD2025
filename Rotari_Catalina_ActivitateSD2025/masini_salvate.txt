@@ -1,0 +1,6 @@
+1,3,5000.00,Astra,Ionescu Ion,A
+2,5,8000.00,Mokka,Vasilescu,S
+3,4,9000.00,Passat,Gigel,I
+4,5,4000.00,Arkana,Gheorghe,B
+5,3,11000.00,Logan,Ionescu,C
+6,5,4000.00,Sportage,Badescu,J

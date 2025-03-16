@@ -36,9 +36,15 @@
     <ClCompile Include="laborator2_suplimentar_VectorDeElemente.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TaskSuplimentar3Fisiere.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="masiniTask.txt">
       <Filter>Resource Files</Filter>
     </Text>
   </ItemGroup>

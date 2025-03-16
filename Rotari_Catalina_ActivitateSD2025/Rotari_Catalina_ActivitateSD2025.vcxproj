@@ -128,7 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Laborator01_suplimentar.c" />
-    <ClCompile Include="laborator02_VectorDeElemente.c" />
+    <ClCompile Include="laborator2_suplimentar_VectorDeElemente.c" />
     <ClCompile Include="Sablon01.c" />
     <ClCompile Include="sablon02_vectorDeElemente.c" />
     <ClCompile Include="seminar01.c" />

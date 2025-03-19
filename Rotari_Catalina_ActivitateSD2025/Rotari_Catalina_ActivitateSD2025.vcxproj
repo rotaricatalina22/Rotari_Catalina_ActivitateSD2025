@@ -102,8 +102,9 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <SDLCheck>true</SDLCheck>
-      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions); _CRT_SECURE_NO_WARNINGS</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>_CRT_SECURE_NO_WARNINGS</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -134,6 +135,8 @@
     <ClCompile Include="seminar01.c" />
     <ClCompile Include="seminar2.c" />
     <ClCompile Include="seminar3.c" />
+    <ClCompile Include="seminar4.c" />
+    <ClCompile Include="seminar5.c" />
     <ClCompile Include="TaskSuplimentar3Fisiere.c" />
   </ItemGroup>
   <ItemGroup>

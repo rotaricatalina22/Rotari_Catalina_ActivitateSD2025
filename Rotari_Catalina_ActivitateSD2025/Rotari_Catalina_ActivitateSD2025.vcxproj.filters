@@ -39,6 +39,9 @@
     <ClCompile Include="TaskSuplimentar3Fisiere.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="seminar4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="masini.txt">
